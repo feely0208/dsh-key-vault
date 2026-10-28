@@ -1,4 +1,4 @@
-# 深鲸 Key 保险箱（@deepwhale-cn/dsh-key-vault）
+# 深鲸密钥箱（@deepwhale-cn/dsh-key-vault）
 
 本机管理**你自己**的多个 API Key：只显示掩码、0600 权限、不上传任何地方。
 
