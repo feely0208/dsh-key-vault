@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-key-vault 的组合层
+- insert:
+    - id: key-vault
+      name: '@deepwhale-cn/dsh-key-vault'
